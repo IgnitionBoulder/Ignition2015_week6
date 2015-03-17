@@ -1,7 +1,7 @@
 - Answer these CodeLearn Rails Models exercise questions:
 
   - What model method allows you to make a new model instance and save it?  
-    - The model method that allows us to do this is Todo.create, which allows us to do .new and .save in one model.      
+    - The model method that allows us to do this is `Todo.create`, which allows us to do `.new` and `.save` in one model.      
   
   - If I wanted to find all `Bulldog`s with the `breed` of `'English'`, what line in Ruby would I execute?  
     - Todo.find_by_Bulldog_breed("English")  
