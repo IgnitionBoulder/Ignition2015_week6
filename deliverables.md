@@ -7,7 +7,7 @@
     - Todo.find_by_Bulldog_breed("English")  
   
   - How do you delete all instance of a certain model?  
-    - To delete all teh instances from a certain model we will use: Todo.delete_all   
+    - To delete all the instances from a certain model we will use: Todo.delete_all   
     
 
 - RailsTutorial Ch. 6
