@@ -4,4 +4,4 @@
   - How do you delete all instance of a certain model?
 - RailsTutorial Ch. 6
   - Link to `sample_app` repo: [my repo](https://github.com/Nolawee/sample_app)
-  - Link to app on Heroku: [my app](http://is.here)
+  - Link to app on Heroku: [my app](https://damp-anchorage-7134.herokuapp.com/)
