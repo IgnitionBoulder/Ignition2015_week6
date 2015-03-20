@@ -11,5 +11,5 @@
     
 
 - RailsTutorial Ch. 6
-  - Link to `sample_app` repo: [my repo](http://is.here)
+  - Link to `sample_app` repo: [my repo](https://ide.c9.io/iansharp93/sample_app-1)
   - Link to app on Heroku: [my app](http://is.here)
