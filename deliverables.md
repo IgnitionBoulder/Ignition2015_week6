@@ -1,6 +1,6 @@
 - Answer these CodeLearn Rails Models exercise questions:
   - What model method allows you to make a new model instance and save it?<br>The '.create' model allows a developer to make a new model instance and save it all in one step; as opposed to using two separate models '.new' and '.save' separately.  Thus, if the intention is to save a newly made model instance, one is better off using '.create' to make and save it at the same time.<br>
-  - If I wanted to find all `Bulldog`s with the `breed` of `'English'`, what line in Ruby would I execute?
+  - If I wanted to find all `Bulldog`s with the `breed` of `'English'`, what line in Ruby would I execute?<br>We can search a database through a particular name to find a particular value using the following pseudocode: Database.find_by_field_name("field_value").  So if Bulldog is the database, breed is the field name, and English is the field value, we would execute the Ruby line 'Bulldog.find_by_breed("English")' to find all Bulldog's with the breed of English (the single quotation marks are to be omitted in the actual code of course).<br>
   - How do you delete all instance of a certain model?
 - RailsTutorial Ch. 6
   - Link to `sample_app` repo: [my repo](https://github.com/albatross7817/hartl_ch6)
