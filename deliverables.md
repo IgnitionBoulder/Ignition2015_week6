@@ -5,3 +5,6 @@
 - RailsTutorial Ch. 6
   - Link to `sample_app` repo: [my repo](https://github.com/albatross7817/hartl_ch6)
   - Link to app on Heroku: [my app](https://vast-shore-5408.herokuapp.com/)
+- Optional
+- CodeClimate: hartl_ch6 received a GPA of 4.0
+- 
