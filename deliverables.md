@@ -5,4 +5,4 @@
 - RailsTutorial Ch. 6
   - Link to `sample_app` repo: [my repo](http://www.codelearn.org/ruby-on-rails-tutorial/introduction-views-layouts-helpers-assets-pipeline)
   - note for the sample app link: unsure this will work as I believe the log-in is remember in my cache or something so I am unsure how you will access my individual work.. if there is a problem contact me. I completed everything.
-  - Link to app on Heroku: [my app](http://is.here)
+  - Link to app on Heroku: [my app](vast-taiga-1601.herokuapp.com)
