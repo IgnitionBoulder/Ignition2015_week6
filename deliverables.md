@@ -1,7 +1,8 @@
 - Answer these CodeLearn Rails Models exercise questions:
-  - What model method allows you to make a new model instance and save it?
-  - If I wanted to find all `Bulldog`s with the `breed` of `'English'`, what line in Ruby would I execute?
-  - How do you delete all instance of a certain model?
+  - What model method allows you to make a new model instance and save it? If we keep the example that is in the next question: Bulldog.create(:breed => "English")
+  - If I wanted to find all `Bulldog`s with the `breed` of `'English'`, what line in Ruby would I execute? Bulldog.find_by_breed("English")
+  - How do you delete all instance of a certain model? Again, following the dog example: Bulldog.delete_all
 - RailsTutorial Ch. 6
-  - Link to `sample_app` repo: [my repo](http://is.here)
-  - Link to app on Heroku: [my app](http://is.here)
+  - Link to `sample_app` repo: [my repo](https://github.com/mgvienna/hartl)
+  - note for the sample app link: unsure this will work as I believe the log-in is remember in my cache or something so I am unsure how you will access my individual work.. if there is a problem contact me. I completed everything.
+  - Link to app on Heroku: [my app](vast-taiga-1601.herokuapp.com)
