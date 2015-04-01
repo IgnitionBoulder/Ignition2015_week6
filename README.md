@@ -16,3 +16,12 @@
 - Do the `WordCount` exercise on [Exercism.io](exercism.io) and look at other people's `Bob` submissions.
 - Read the Rails Guide on [Active Model Basics](http://guides.rubyonrails.org/active_model_basics.html)
 - Read [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/) from Code Climate
+- 
+
+Notes from Evans speech in class 3.31.15
+
+You should ask questions if you dont understand   
+  Think about and ask questions to your self
+    You would have to be able to reiterate what you are learning to actually understand it 
+  For the sake of understanding ask yourself questions as to what is important here
+      Filter out the stuff that you should know and the things that you dont need to know about 
